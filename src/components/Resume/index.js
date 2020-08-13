@@ -12,11 +12,11 @@ function Resume () {
                 </div>
             </div>
             <div className="justify-content-center m-5">
-                <div id="front-end">
+                <div id="front-back">
                     <h2>Front End</h2>
                     <p>HTML, CSS, Javascript, Bootstrap, Materialize, Foundation, Bulma, Handlebars</p>
                 </div>
-                <div id="back-end">
+                <div id="front-back">
                     <h2>Back End</h2>
                     <p>Node, Express, SQL, Sequelize, NoSQL, API's</p>
                 </div>
