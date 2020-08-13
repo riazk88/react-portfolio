@@ -8,7 +8,7 @@ function Resume () {
             <div className="justify-content-center" id="resume">
                 <h3 className="font-weight-bold mb-4">Download my full resume</h3>
                 <div>
-                <a href="https://github.com/riazk88/react-portfolio/raw/master/src/assets/kiranriaz.pdf" class="link">Resume</a>
+                <a href="https://github.com/riazk88/react-portfolio/blob/master/src/assets/KiranRiaz.pdf" class="link">Resume</a>
                 </div>
             </div>
             <div className="justify-content-center m-5">

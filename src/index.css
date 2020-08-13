@@ -20,9 +20,7 @@
   
   p {
     font-size: 18px;
-    color: var(--orange-soda);
     font-weight: bold;
-    background-color: var(--platinum);
     text-align: center;
   }
   
@@ -122,9 +120,14 @@
   .icon {
     padding: 10px;
   }
+
+  .title h1 {
+    color: purple;
+  }
   
   #about-section {
-    margin: 2em;
+    margin: 5em;
+    color: lightseagreen;
   }
   
   #about-section p {
