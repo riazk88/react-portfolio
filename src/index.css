@@ -29,6 +29,7 @@
     padding: 10px;
     color: var(--onyx);
     font-weight: bold;
+    color: purple;
   }
   
   #header {
@@ -77,9 +78,7 @@
   }
   
   .card .content {
-    font-size: 18px;
-    background-color: var(--platinum);
-    color: var(--orange-soda);
+    font-size: 20px;
     font-weight: bold;
     text-align: center;
   }
@@ -140,6 +139,8 @@
     margin: 20px;
     margin-left: 10em;
     margin-right: 10em;
+    color: lightseagreen;
+    font-weight: bold;
   }
   
   #front-back h2 {

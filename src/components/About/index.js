@@ -4,6 +4,7 @@ function About () {
     return(
         <section className="title">
             <h1>Kiran Riaz</h1>
+            <img className="mb-5" src="https://github.com/riazk88/react-portfolio/blob/master/src/assets/images/profile_pic.JPG?raw=true" alt="Kiran"/>
             <hr></hr>
             <div className="row justify-content-center">
                 <div className="col-10" id="about-section">

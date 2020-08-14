@@ -33,7 +33,7 @@ function Contact() {
 
     return (
         <section class="justify-content-center" id="contact-section">
-            <h1 data-testid='h1tag' className="contact">contact: Kiran Riaz</h1>
+            <h1 data-testid='h1tag' className="contact">Contact</h1>
             <hr></hr>
             <form class="justify-content-center" id="contact-form">
                 <div>
@@ -54,7 +54,7 @@ function Contact() {
                     </div>
                 )}
                 <div>
-                    <button data-testid="button" class="btn btn-outline-dark mt-4" type="submit" onSubmit={handleSubmit}>Submit</button>
+                    <button data-testid="button" class="btn btn-outline-primary mt-4" type="submit" onSubmit={handleSubmit}>Submit</button>
                 </div>
             </form>
         </section>

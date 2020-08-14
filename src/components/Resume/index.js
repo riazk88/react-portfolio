@@ -3,7 +3,7 @@ import React from 'react';
 function Resume () {
     return(
         <section class="mb-5">
-            <h1>Kiran Riaz: <span>Resume</span></h1>
+            <h1>Resume</h1>
             <hr></hr>
             <div className="justify-content-center" id="resume">
                 <h3 className="font-weight-bold mb-4">Download my full resume</h3>
