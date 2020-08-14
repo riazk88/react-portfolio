@@ -2,9 +2,43 @@
     {
         "id": 1,
         "name": "Drink & Think",
-        "image": "",
+        "image": "https://github.com/riazk88/react-portfolio/blob/master/src/assets/images/drink_think.PNG?raw=true",
         "github": "https://github.com/riazk88/drink-and-think",
-        "deploy": "https://riazk88.github.io/drink-and-think/",
-        "tools": "HTML, CSS, Javascript, API"
+        "deployed": "https://riazk88.github.io/drink-and-think/"
+    },
+    {
+        "id": 2,
+        "name": "Run Buddy",
+        "image": "https://github.com/riazk88/react-portfolio/blob/master/src/assets/images/run_buddy.PNG?raw=true",
+        "github": "https://github.com/riazk88/run-buddy",
+        "deployed": "https://riazk88.github.io/run-buddy/"
+    },
+    {
+        "id": 3,
+        "name": "Workout Workers",
+        "image": "https://github.com/riazk88/react-portfolio/blob/master/src/assets/images/workout.PNG?raw=true",
+        "github": "https://github.com/israel0688/workout-workers",
+        "deployed": "https://murmuring-escarpment-27359.herokuapp.com"
+    },
+    {
+        "id": 4,
+        "name": "Weather Dashboard",
+        "image": "https://github.com/riazk88/react-portfolio/blob/master/src/assets/images/weather_dash.PNG?raw=true",
+        "github": "https://github.com/riazk88/weather-dashboard",
+        "deployed": "https://riazk88.github.io/weather-dashboard/"
+    },
+    {
+        "id": 5,
+        "name": "Secret Password",
+        "image": "https://github.com/riazk88/react-portfolio/blob/master/src/assets/images/password_gen.PNG?raw=true",
+        "github": "https://github.com/riazk88/secret-password",
+        "deployed": "https://riazk88.github.io/secret-password/"
+    },
+    {
+        "id": 6,
+        "name": "Code Quiz",
+        "image": "https://github.com/riazk88/react-portfolio/blob/master/src/assets/images/code_quiz.PNG?raw=true",
+        "github": "https://github.com/riazk88/code-quiz",
+        "deployed": "https://riazk88.github.io/code-quiz/"
     }
 ]
