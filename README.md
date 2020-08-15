@@ -8,9 +8,11 @@ AS AN employer looking for candidates with experience building single-page appli
 I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
 
-## Check out my portfolio!
+## Check out my Portfolio!
 
+<img src="https://github.com/riazk88/react-portfolio/blob/master/src/assets/images/portfolio_SS.png?raw=true" alt="Kiran"/>
 
+## Click the Link!
 
-## Links
+https://riazk88.github.io/react-portfolio/
 
