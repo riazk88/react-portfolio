@@ -8,8 +8,8 @@
     },
     {
         "id": 2,
-        "name": "Run Buddy",
-        "image": "https://github.com/riazk88/react-portfolio/blob/master/src/assets/images/run_buddy.png?raw=true",
+        "name": "Honey Do List",
+        "image": "https://github.com/riazk88/react-portfolio/blob/master/src/assets/images/honeydo.png?raw=true",
         "github": "https://github.com/deannapi/honey-do-list",
         "deployed": "https://honey-do-list.herokuapp.com/"
     },
