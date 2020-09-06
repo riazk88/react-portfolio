@@ -10,8 +10,8 @@
         "id": 2,
         "name": "Run Buddy",
         "image": "https://github.com/riazk88/react-portfolio/blob/master/src/assets/images/run_buddy.png?raw=true",
-        "github": "https://github.com/riazk88/run-buddy",
-        "deployed": "https://riazk88.github.io/run-buddy/"
+        "github": "https://github.com/deannapi/honey-do-list",
+        "deployed": "https://honey-do-list.herokuapp.com/"
     },
     {
         "id": 3,
