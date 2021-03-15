@@ -9,15 +9,14 @@ function About () {
             <div className="row justify-content-center">
                 <div className="col-10" id="about-section">
                     <p>
-                    Semiotics disrupt chicharrones tbh, pour-over brooklyn pabst gastropub helvetica kogi taiyaki.
+                    Hi, my name is Kiran and welcome to my Portfolio! I'm a mental health therapist and a web developer.
                     <br></br>
-                    Fingerstache portland heirloom fanny pack chillwave ennui, sustainable trust fund. 
+                    I've been in the mental health field for a few years but now I'm excited for my transition into tech.
                     <br></br>
-                    Freegan chia taxidermy tbh cray sriracha readymade knausgaard hella.
+                    In my spare time I like to strengthen my coding skills and create mock webpages.
                     <br></br>
-                    Twee chia humblebrag, letterpress disrupt marfa unicorn asymmetrical offal lyft selvage yr butcher.
+                    I also enjoy being outdoors, reading, working out, traveling, cooking, and playing with my dog, Baloo. 
                     <br></br>
-                    Chillwave heirloom farm-to-table, cloud bread semiotics locavore bushwick twee cray jianbing keffiyeh brooklyn fixie.
                     </p>
                     <p>
                         <a href="#/resume" class="link">Check out my resume!</a>
